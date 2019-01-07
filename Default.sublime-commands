@@ -1,0 +1,14 @@
+[
+  {
+      "caption": "WorkTimer: stat (Показать статистику)",
+      "command": "work_timer_stat_all_projects"
+  },
+  {
+      "caption": "WorkTimer: edit (Редактировать файл данных)",
+      "command": "work_timer_edit_all_projects"
+  },
+  {
+      "caption": "WorkTimer: clear (Очистить файл данных)",
+      "command": "work_timer_clear_all_projects"
+  }
+]
